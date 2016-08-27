@@ -28,11 +28,9 @@ git commit -m "first commit"
 git remote add MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
 #顯示
 =======
-#�]�w�s�������x�s�w,���a�W��MyMSMQ
+#關連本地儲存庫與遠端儲存庫 MyMSMQ
 git remote add MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
 git remote remove MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
-#����
->>>>>>> Stashed changes:.gitcmd_MyMSMQ.txt
 git remote 
 #遠端比較新時,須更新本地端
 #遠端若刪除本地也會刪除
