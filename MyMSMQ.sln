@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMSMQSender", "MyMSMQSender\MyMSMQSender.csproj", "{D0AF5107-AA87-43A0-ABEB-349DCE18CA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEntity", "MyEntity\MyEntity.csproj", "{C771700F-013E-4548-AFEE-DFB35168CF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMSMQReceiver", "MyMSMQReceiver\MyMSMQReceiver.csproj", "{4E326542-304E-4D51-8778-8C6EF10434DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AF5107-AA87-43A0-ABEB-349DCE18CA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AF5107-AA87-43A0-ABEB-349DCE18CA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AF5107-AA87-43A0-ABEB-349DCE18CA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AF5107-AA87-43A0-ABEB-349DCE18CA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C771700F-013E-4548-AFEE-DFB35168CF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C771700F-013E-4548-AFEE-DFB35168CF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C771700F-013E-4548-AFEE-DFB35168CF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C771700F-013E-4548-AFEE-DFB35168CF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E326542-304E-4D51-8778-8C6EF10434DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E326542-304E-4D51-8778-8C6EF10434DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E326542-304E-4D51-8778-8C6EF10434DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E326542-304E-4D51-8778-8C6EF10434DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
