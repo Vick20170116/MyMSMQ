@@ -1,0 +1,15 @@
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\MyMSMQ.exe
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\MyMSMQReceiver.exe
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\MyEntity.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\MyMSMQReceiver.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\MyMSMQ.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\MyEntity.pdb
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll

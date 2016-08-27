@@ -23,9 +23,16 @@ git status
 #把staging 資料commit到 local Repo ,並加上備註
 git commit -m "first commit"
 #rem MyMSMQ since 20160827
+<<<<<<< Updated upstream:.gitcmd.txt
 #將本地的respo與遠端MyMSMQ respo 結合
 git remote add MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
 #顯示
+=======
+#�]�w�s�������x�s�w,���a�W��MyMSMQ
+git remote add MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
+git remote remove MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
+#���
+>>>>>>> Stashed changes:.gitcmd_MyMSMQ.txt
 git remote 
 #遠端比較新時,須更新本地端
 #遠端若刪除本地也會刪除

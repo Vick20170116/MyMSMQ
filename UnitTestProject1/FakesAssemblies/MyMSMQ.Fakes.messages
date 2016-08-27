@@ -1,0 +1,2 @@
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\Fakes\MyMSMQ.fakes : warning : 無法產生 MyMSMQ.Program 的 stub: 類型對 exported or assembly(MyMSMQ.Fakes) 是不可見的。
+D:\fij-doc\00開發\MyLabs實驗室\MyMSMQ\UnitTestProject1\Fakes\MyMSMQ.fakes : warning : 無法產生 MyMSMQ.Program 的填充碼: 類型對 exported or assembly(MyMSMQ.Fakes) 是不可見的。
