@@ -9,3 +9,5 @@ git commit -m "first commit"
 rem MyMSMQ since 20160827
 git remote add MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
 git push --set-upstream MyMSMQ master
+git push -f
+
