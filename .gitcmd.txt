@@ -28,10 +28,10 @@ git commit -m "first commit"
 git remote add MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
 #é¡¯ç¤º
 =======
-#³]©w³sµ²»·ºİÀx¦s®w,¥»¦a¦WºÙMyMSMQ
+#ï¿½]ï¿½wï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½sï¿½w,ï¿½ï¿½ï¿½aï¿½Wï¿½ï¿½MyMSMQ
 git remote add MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
 git remote remove MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
-#Åã¥Ü
+#ï¿½ï¿½ï¿½ï¿½
 >>>>>>> Stashed changes:.gitcmd_MyMSMQ.txt
 git remote 
 #é ç«¯æ¯”è¼ƒæ–°æ™‚,é ˆæ›´æ–°æœ¬åœ°ç«¯
@@ -40,6 +40,7 @@ git remote
 #git pull
 
 #æ›´æ–°åˆ°é ç«¯Resposity
-git push --set-upstream MyMSMQ master
+#git push 
+#git push --set-upstream MyMSMQ master
 
 
