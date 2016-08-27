@@ -1,8 +1,8 @@
 rem ===================
-#1.local commit¬yµ{
+#1.local commitæµç¨‹
 #workspace --->staging---->local respo(master)
 #
-#2.high level¶}µo¬yµ{
+#2.high levelé–‹ç™¼æµç¨‹
 #master-x----->x------>x-------x---
 #	\                    /
 #develop--->x----------------x-------
@@ -14,25 +14,25 @@ cd D:\git\MyMSMQ
 echo "# MyMSMQ" >> README.md
 
 
-#«Ø¥ßlocal resposity («Ø¥ß.git¥Ø¿ı,commit¿ù¥iÁÙ­ì¦¹¥Ø¿ı)
+#å»ºç«‹local resposity (å»ºç«‹.gitç›®éŒ„,commitéŒ¯å¯é‚„åŸæ­¤ç›®éŒ„)
 git init  
-#·s¼W©Î­×§ï®É¶·°õ¦æ(git add .)§âworkspace¸ê®Æ¥[¨ìstaging
+#æ–°å¢æˆ–ä¿®æ”¹æ™‚é ˆåŸ·è¡Œ(git add .)æŠŠworkspaceè³‡æ–™åŠ åˆ°staging
 git add .
-#Åã¥Üª¬ºA(Åã¥Ü²§°Ê­ş¨ÇÀÉ®×)
+#é¡¯ç¤ºç‹€æ…‹(é¡¯ç¤ºç•°å‹•å“ªäº›æª”æ¡ˆ)
 git status
-#§âstaging ¸ê®Æcommit¨ì local Repo ,¨Ã¥[¤W³Æµù
+#æŠŠstaging è³‡æ–™commitåˆ° local Repo ,ä¸¦åŠ ä¸Šå‚™è¨»
 git commit -m "first commit"
 #rem MyMSMQ since 20160827
-#±N¥»¦aªºrespo»P»·ºİMyMSMQ respo µ²¦X
+#å°‡æœ¬åœ°çš„respoèˆ‡é ç«¯MyMSMQ respo çµåˆ
 git remote add MyMSMQ https://github.com/michaelfangtw/MyMSMQ.git
-#Åã¥Ü
+#é¡¯ç¤º
 git remote 
-#»·ºİ¤ñ¸û·s®É,¶·§ó·s¥»¦aºİ
-#»·ºİ­Y§R°£¥»¦a¤]·|§R°£
-#git pull=git fetch+git merge   (ÀËµø»·ºİ²§°Ê,¨Ã§ó·s¨ì¥»¦a)
+#é ç«¯æ¯”è¼ƒæ–°æ™‚,é ˆæ›´æ–°æœ¬åœ°ç«¯
+#é ç«¯è‹¥åˆªé™¤æœ¬åœ°ä¹Ÿæœƒåˆªé™¤
+#git pull=git fetch+git merge   (æª¢è¦–é ç«¯ç•°å‹•,ä¸¦æ›´æ–°åˆ°æœ¬åœ°)
 #git pull
 
-#§ó·s¨ì»·ºİResposity
+#æ›´æ–°åˆ°é ç«¯Resposity
 git push --set-upstream MyMSMQ master
 
 
