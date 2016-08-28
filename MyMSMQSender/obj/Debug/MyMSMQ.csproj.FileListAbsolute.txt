@@ -1,1 +1,0 @@
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQ\bin\Debug\MyMSMQ.exe.config

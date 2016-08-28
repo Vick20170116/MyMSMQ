@@ -1,8 +1,0 @@
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQSender\bin\Debug\MyMSMQ.exe.config
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQSender\bin\Debug\MyMSMQ.exe
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQSender\bin\Debug\MyMSMQ.pdb
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQSender\bin\Debug\MyEntity.dll
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQSender\bin\Debug\MyEntity.pdb
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQSender\obj\Debug\MyMSMQSender.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQSender\obj\Debug\MyMSMQ.exe
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQSender\obj\Debug\MyMSMQ.pdb

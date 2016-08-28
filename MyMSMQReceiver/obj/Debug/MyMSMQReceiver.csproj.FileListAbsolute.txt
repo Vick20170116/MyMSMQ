@@ -1,8 +1,0 @@
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQReceiver\bin\Debug\MyMSMQReceiver.exe.config
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQReceiver\bin\Debug\MyMSMQReceiver.exe
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQReceiver\bin\Debug\MyMSMQReceiver.pdb
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQReceiver\obj\Debug\MyMSMQReceiver.exe
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQReceiver\obj\Debug\MyMSMQReceiver.pdb
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQReceiver\obj\Debug\MyMSMQReceiver.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQReceiver\bin\Debug\MyEntity.dll
-D:\Projects\Visual Studio 2015\MyMSMQ\MyMSMQReceiver\bin\Debug\MyEntity.pdb

@@ -1,5 +1,0 @@
-D:\Projects\Visual Studio 2015\MyMSMQ\MyEntity\bin\Debug\MyEntity.dll
-D:\Projects\Visual Studio 2015\MyMSMQ\MyEntity\bin\Debug\MyEntity.pdb
-D:\Projects\Visual Studio 2015\MyMSMQ\MyEntity\obj\Debug\MyEntity.csprojResolveAssemblyReference.cache
-D:\Projects\Visual Studio 2015\MyMSMQ\MyEntity\obj\Debug\MyEntity.dll
-D:\Projects\Visual Studio 2015\MyMSMQ\MyEntity\obj\Debug\MyEntity.pdb
